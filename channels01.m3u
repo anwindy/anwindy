@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://154.12.116.118:8000/api/xmltv.xml" x-tvg-url="http://154.12.116.118:8000/api/xmltv.xml"
+#EXTINF:-1 tvg-id="C1.49.tunarr.com" channel-id="C1.49.tunarr.com" CUID="C1.49.tunarr.com" tvg-chno="1" tvg-name="Channel 1" tvg-logo="http://154.12.116.118:8000/images/tunarr.png" group-title="tunarr",Channel 1
+http://154.12.116.118:8000/stream/channels/190364e9-c47a-4433-8fd2-af1d5cea2db8?streamMode=hls
